@@ -10,3 +10,7 @@ It turns out I had missed a step in VSCode that has you "stage" files before com
 When reviewing the project you may see a period of commits that are more ambiguous, these were a result of my troubleshooting the issue before finding out what had went wrong.
 
 Afterwards, I learned to stage my changes, and continued adding recipes to the project.
+
+## Project Completion
+
+After learning, or relearning about staging commits, I finished up the project and published it to a GitHub page. Feel free to view it (here!)[https://futurel-lab.github.io/odin-recipes/]
