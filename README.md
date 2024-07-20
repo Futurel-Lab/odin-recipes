@@ -13,4 +13,4 @@ Afterwards, I learned to stage my changes, and continued adding recipes to the p
 
 ## Project Completion
 
-After learning, or relearning about staging commits, I finished up the project and published it to a GitHub page. Feel free to view it (here!)[https://futurel-lab.github.io/odin-recipes/]
+After learning, or relearning about staging commits, I finished up the project and published it to a GitHub page. Feel free to view it [here!](https://futurel-lab.github.io/odin-recipes/)
